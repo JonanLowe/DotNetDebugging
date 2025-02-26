@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "a:\\VSCode\\DotNet\\DotNetDebugging\\DotNetDebugging.csproj": {}
+    "A:\\VSCode\\DotNet\\DotNetDebugging\\DotNetDebugging.csproj": {}
   },
   "projects": {
-    "a:\\VSCode\\DotNet\\DotNetDebugging\\DotNetDebugging.csproj": {
+    "A:\\VSCode\\DotNet\\DotNetDebugging\\DotNetDebugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "a:\\VSCode\\DotNet\\DotNetDebugging\\DotNetDebugging.csproj",
+        "projectUniqueName": "A:\\VSCode\\DotNet\\DotNetDebugging\\DotNetDebugging.csproj",
         "projectName": "DotNetDebugging",
-        "projectPath": "a:\\VSCode\\DotNet\\DotNetDebugging\\DotNetDebugging.csproj",
+        "projectPath": "A:\\VSCode\\DotNet\\DotNetDebugging\\DotNetDebugging.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "a:\\VSCode\\DotNet\\DotNetDebugging\\obj\\",
+        "outputPath": "A:\\VSCode\\DotNet\\DotNetDebugging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config"
